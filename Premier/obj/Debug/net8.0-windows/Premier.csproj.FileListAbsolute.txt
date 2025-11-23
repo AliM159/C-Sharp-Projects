@@ -1,0 +1,17 @@
+C:\S2\COMP123\Assignments\assign07\Premier\bin\Debug\net8.0-windows\Premier.exe
+C:\S2\COMP123\Assignments\assign07\Premier\bin\Debug\net8.0-windows\Premier.deps.json
+C:\S2\COMP123\Assignments\assign07\Premier\bin\Debug\net8.0-windows\Premier.runtimeconfig.json
+C:\S2\COMP123\Assignments\assign07\Premier\bin\Debug\net8.0-windows\Premier.dll
+C:\S2\COMP123\Assignments\assign07\Premier\bin\Debug\net8.0-windows\Premier.pdb
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.Properties.Resources.resources
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.csproj.GenerateResource.cache
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.GeneratedMSBuildEditorConfig.editorconfig
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.AssemblyInfoInputs.cache
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.AssemblyInfo.cs
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.csproj.CoreCompileInputs.cache
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.dll
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\refint\Premier.dll
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.pdb
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.genruntimeconfig.cache
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\ref\Premier.dll
+C:\S2\COMP123\Assignments\assign07\Premier\obj\Debug\net8.0-windows\Premier.OntarioPremier.resources

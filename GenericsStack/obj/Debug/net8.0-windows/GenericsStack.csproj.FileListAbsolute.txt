@@ -1,0 +1,16 @@
+C:\S2\COMP123\Assignments\assign08\GenericsStack\bin\Debug\net8.0-windows\GenericsStack.exe
+C:\S2\COMP123\Assignments\assign08\GenericsStack\bin\Debug\net8.0-windows\GenericsStack.deps.json
+C:\S2\COMP123\Assignments\assign08\GenericsStack\bin\Debug\net8.0-windows\GenericsStack.runtimeconfig.json
+C:\S2\COMP123\Assignments\assign08\GenericsStack\bin\Debug\net8.0-windows\GenericsStack.dll
+C:\S2\COMP123\Assignments\assign08\GenericsStack\bin\Debug\net8.0-windows\GenericsStack.pdb
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\GenericsStack.StackImplementationApp.resources
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\GenericsStack.csproj.GenerateResource.cache
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\GenericsStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\GenericsStack.AssemblyInfoInputs.cache
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\GenericsStack.AssemblyInfo.cs
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\GenericsStack.csproj.CoreCompileInputs.cache
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\GenericsStack.dll
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\refint\GenericsStack.dll
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\GenericsStack.pdb
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\GenericsStack.genruntimeconfig.cache
+C:\S2\COMP123\Assignments\assign08\GenericsStack\obj\Debug\net8.0-windows\ref\GenericsStack.dll
