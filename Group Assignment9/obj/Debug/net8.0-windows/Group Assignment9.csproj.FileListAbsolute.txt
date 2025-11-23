@@ -1,0 +1,36 @@
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group_Assignment9.Form1.resources
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group_Assignment9.StudentEntryForm.resources
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.csproj.GenerateResource.cache
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.exe
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.deps.json
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.dll
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.pdb
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.dll
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\refint\Group Assignment9.dll
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.pdb
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\Attachments\Group Assignment9\obj\Debug\net8.0-windows\ref\Group Assignment9.dll
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.exe
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.deps.json
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.runtimeconfig.json
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.dll
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\bin\Debug\net8.0-windows\Group Assignment9.pdb
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group_Assignment9.Form1.resources
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group_Assignment9.StudentEntryForm.resources
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.csproj.GenerateResource.cache
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.AssemblyInfoInputs.cache
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.AssemblyInfo.cs
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.csproj.CoreCompileInputs.cache
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.dll
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\refint\Group Assignment9.dll
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.pdb
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group Assignment9.genruntimeconfig.cache
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\ref\Group Assignment9.dll
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group_Assignment9.DashboardForm.resources
+C:\Users\alihu\Downloads\Group Assignment9\Group Assignment9\obj\Debug\net8.0-windows\Group_Assignment9.ReportsForm.resources
