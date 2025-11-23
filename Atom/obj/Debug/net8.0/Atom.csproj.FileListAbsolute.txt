@@ -1,0 +1,14 @@
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\bin\Debug\net8.0\Atom.exe
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\bin\Debug\net8.0\Atom.deps.json
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\bin\Debug\net8.0\Atom.runtimeconfig.json
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\bin\Debug\net8.0\Atom.dll
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\bin\Debug\net8.0\Atom.pdb
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\obj\Debug\net8.0\Atom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\obj\Debug\net8.0\Atom.AssemblyInfoInputs.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\obj\Debug\net8.0\Atom.AssemblyInfo.cs
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\obj\Debug\net8.0\Atom.csproj.CoreCompileInputs.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\obj\Debug\net8.0\Atom.dll
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\obj\Debug\net8.0\refint\Atom.dll
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\obj\Debug\net8.0\Atom.pdb
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\obj\Debug\net8.0\Atom.genruntimeconfig.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign04\Atom\obj\Debug\net8.0\ref\Atom.dll

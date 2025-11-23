@@ -1,0 +1,14 @@
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\bin\Debug\net8.0\Object.exe
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\bin\Debug\net8.0\Object.deps.json
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\bin\Debug\net8.0\Object.runtimeconfig.json
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\bin\Debug\net8.0\Object.dll
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\bin\Debug\net8.0\Object.pdb
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\obj\Debug\net8.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\obj\Debug\net8.0\Object.AssemblyInfoInputs.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\obj\Debug\net8.0\Object.AssemblyInfo.cs
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\obj\Debug\net8.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\obj\Debug\net8.0\Object.dll
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\obj\Debug\net8.0\refint\Object.dll
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\obj\Debug\net8.0\Object.pdb
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\obj\Debug\net8.0\Object.genruntimeconfig.cache
+C:\Users\alihu\OneDrive\Desktop\S2\COMP123\Assignments\assign05\Object\obj\Debug\net8.0\ref\Object.dll
